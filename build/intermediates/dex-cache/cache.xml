@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_7bd37c6184bb87d14ee281df4235c62dd3234f4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_e5f6420b1dfd9edb145a81f55a17cf544aec7cbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="180ffc4fbb8e29209c2c03b6768a83240d8ad903">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\instant-run_b189278acaee0aa707f159d64a212e5ad94b11d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_092d6050193e93f653c223d4736257cf0e25ec88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_0d866a45aba0df8cf0cba5f00de9d97bb3abfe83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_fce533ac3243cd6ea3c1f1ddfeae1c2489a80f09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_963e72cf8394ba12da919d8f6fa709b18d9d175b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_2b1bc1459c417eb902a2a77f151d2bdc293a726a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_2baca4bf8239e6de0f911335c92bdd23c5c06c54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_ff43cc713065e96d050805283454c89752d33b69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_3d83a13c5b94ece9dcf3fa77721e892cc781f0b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_79b0ec09613c75c989e52fe37c3bc9c7dd1fe329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_aa7639feecd44e7c3452a1f3614c069fc71b75bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_b441c7fd4a9dbf499f14a785d91162359c894c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_b5c16462dce9251a0bde77b85c9342693205e40b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0bddd858b0687cfd65f98c9f153cbf9b28c3e87b">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_784b44282dcd690c3998a6e1edb861b5fe3fa4dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_7565e34f094499b7bee1b6e1dd3497c60bde4fc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_e9bf9a9f2f08451a79190cdbf11f8abcca68d302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_b5c16462dce9251a0bde77b85c9342693205e40b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_81d1a0fa2a50d3ade1153863e28f458cb55c1622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_a6acaf63a5dcc74bcaf0e0af8b876d8ee5cbe071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_1af6a5c1757900102d4e2c731cda4765456ed2bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_6c94cd6e9823b7846f29a238ff51a715efe605ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_c9803bac8ab34f5d004e29675e931b6237611902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_00bde1ae32e115583aada0b996e925481d1c2539.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_fa2e3ad7e9dbacea5b829854b9d89fc9b7d46ae5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_a7df53833e864a563d3f30bbfbf4ba0aa8717c84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="78425ca1dad76035ab90409132a2935cd35b79c8">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\instant-run_93ae19697b23126fabc03e397aadb09ca3ef3008.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_8cccd9522d25116a87c6d7b5d32819b68ae6d6a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_a3a648945a44fc1e60e2920458758c7325ec6776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_01318dc04045fb4f1224e34be3759dc7b6d3232e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_092d6050193e93f653c223d4736257cf0e25ec88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_2baca4bf8239e6de0f911335c92bdd23c5c06c54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_e5f6420b1dfd9edb145a81f55a17cf544aec7cbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_963e72cf8394ba12da919d8f6fa709b18d9d175b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_b441c7fd4a9dbf499f14a785d91162359c894c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_79b0ec09613c75c989e52fe37c3bc9c7dd1fe329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_0d866a45aba0df8cf0cba5f00de9d97bb3abfe83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_3d83a13c5b94ece9dcf3fa77721e892cc781f0b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_46849322b95b54e31cc50cabc3b96b06956005ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_7d399bff70100c41677277f41ad531a6529ee742.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_acdbe5a12196aa9ed6bc758eec11f9cf00ca9c59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_ff43cc713065e96d050805283454c89752d33b69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_6c94cd6e9823b7846f29a238ff51a715efe605ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_81d1a0fa2a50d3ade1153863e28f458cb55c1622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_2b1bc1459c417eb902a2a77f151d2bdc293a726a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_a3a648945a44fc1e60e2920458758c7325ec6776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_7bd37c6184bb87d14ee281df4235c62dd3234f4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7844951d0074805b88bb853d26b6f161ebccb862">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_65babdee493ad91d0a29fcf272a4b64cdcea42b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn_progettoFinale\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_c9803bac8ab34f5d004e29675e931b6237611902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\raffaeledellaporta\Desktop\PlayForLearn-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_4ec308efaf55079a759e518b32f4417ccf11c0d3.jar" />
+    </item>
+
+</items>

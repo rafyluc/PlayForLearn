@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_result.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\menu\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_games.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\menu\\menu_games.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_quiz.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\menu\\activity_quiz.xml"
+    }
+]

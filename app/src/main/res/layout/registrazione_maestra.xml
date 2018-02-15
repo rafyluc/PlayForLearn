@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="Registrazione Utente_Maestra"
+        android:textSize="20dp"
+        android:layout_marginLeft="50dp"
+        android:textColor="@color/colorAccent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewRec"
+        tools:text="Registrazione Amministratore" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/backgroud_text"
+            android:text="Username: "/>
+        <android.support.design.widget.TextInputEditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/username1"
+            android:hint="@string/username"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:background="@drawable/backgroud_text"
+            android:layout_height="wrap_content"
+            android:text="Password: "/>
+        <android.support.design.widget.TextInputEditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/password1"
+            android:hint="@string/prompt_password"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/backgroud_text"
+            android:text="Nome: "/>
+        <android.support.design.widget.TextInputEditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/nome1"
+            android:layout_marginLeft="20dp"
+            android:hint="@string/nome"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/backgroud_text"
+            android:text="Cognome: "/>
+        <android.support.design.widget.TextInputEditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/cognome1"
+            android:hint="@string/cognome"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <CheckBox
+            android:id="@+id/checkBox1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Italiano"
+            android:layout_centerHorizontal="true" />
+
+        <CheckBox
+            android:id="@+id/checkBox2"
+            android:layout_below="@+id/checkBox1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Matematica"
+            android:checked="false"
+           />
+
+        <CheckBox
+            android:id="@+id/checkBox3"
+            android:layout_below="@+id/checkBox1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Storia e Geografia"
+            android:checked="false"
+            />
+
+        <CheckBox
+            android:id="@+id/checkBox4"
+            android:layout_below="@+id/checkBox1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Inglese"
+            android:checked="false"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:id="@+id/LOk"
+            android:layout_alignLeft="@+id/LAnnulla"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="30dp"
+                android:text="Registrati"
+                android:onClick="registrati"
+                android:src="@drawable/user_add"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:id="@+id/registrazioneMaestra" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:id="@+id/LAnnulla"
+            android:layout_alignRight="@id/LOk"
+            android:layout_alignParentRight="true"
+            android:layout_height="wrap_content">
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/annulla"
+                android:layout_marginLeft="30dp"
+                android:src="@drawable/annulla"
+                android:onClick="annulla"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:id="@+id/btAnnulla" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

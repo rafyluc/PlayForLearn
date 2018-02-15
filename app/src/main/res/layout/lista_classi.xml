@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:text="Prima classe"
+        android:layout_marginTop="65dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_italiano"
+        android:onClick="listaAlunni"
+        android:textAllCaps="false"
+        android:id="@+id/prima" />
+
+    <Button
+        android:text="Seconda classe"
+        android:layout_below="@+id/prima"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:background="@drawable/button_italiano"
+        android:onClick="listaAlunni2"
+        android:textAllCaps="false"
+        android:id="@+id/seconda" />
+
+    <Button
+        android:text="Terza classe"
+        android:layout_below="@+id/seconda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:background="@drawable/button_italiano"
+        android:onClick="listaAlunni3"
+        android:textAllCaps="false"
+        android:id="@+id/terza" />
+
+    <Button
+        android:text="Quarta classe"
+        android:layout_below="@+id/terza"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:background="@drawable/button_italiano"
+        android:onClick="listaAlunni4"
+        android:textAllCaps="false"
+        android:id="@+id/quarta" />
+
+    <Button
+        android:text="Quinta classe"
+        android:layout_below="@+id/quarta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:background="@drawable/button_italiano"
+        android:onClick="listaAlunni5"
+        android:textAllCaps="false"
+        android:id="@+id/quinta" />
+
+</RelativeLayout>

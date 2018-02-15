@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stelle.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\stelle.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medaglia_ida.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\medaglia_ida.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\matematica_icona.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\matematica_icona.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroud_text.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\backgroud_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\images.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\images.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icona_italiano.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\icona_italiano.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\account2.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\account2.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\account3.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\account3.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\background_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\darenome_casa_vasca.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\darenome_casa_vasca.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\darenome_casa_lampada.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\darenome_casa_lampada.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\creatorb2.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\creatorb2.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_add.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\user_add.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sfere.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\sfere.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coppa_ida.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\coppa_ida.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\darenome_casa_letto.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\darenome_casa_letto.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selected.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\button_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\traguardo.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\traguardo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\montagna.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\montagna.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icona_storia.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\icona_storia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mare.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\mare.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panda.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\panda.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calcoli.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\calcoli.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\piramide.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\piramide.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\casa.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\casa.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_top10.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\record_top10.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ombra_cavallo.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\ombra_cavallo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ombra_ciclisti.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\ombra_ciclisti.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\graffiti.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\graffiti.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_inglese.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\button_inglese.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\darenome_casa_padella.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\darenome_casa_padella.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icona_applicazione_pfl.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\icona_applicazione_pfl.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\account.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icona.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\icona.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_italiano.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\button_italiano.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pietra.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\pietra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sole.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\sole.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cane.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\cane.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tavolo2.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\tavolo2.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annulla.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\annulla.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ombra_sciatori.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\ombra_sciatori.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_storia.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\button_storia.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\help.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_personali.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\record_personali.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lente.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\lente.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\prato.jpg",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\prato.jpg"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_matematica.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\button_matematica.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\darenome_casa_tavolo.png",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\src\\main\\res\\drawable\\darenome_casa_tavolo.png"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\raffaeledellaporta\\Desktop\\PlayForLearn-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    }
+]

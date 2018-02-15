@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimaryLigth"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/textTitle">
+
+        <LinearLayout
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00ffffff"
+            android:layout_gravity="center_horizontal">
+
+
+            <Button
+                android:text="Italiano"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="15dp"
+                android:background="@drawable/button_italiano"
+                android:textAllCaps="false"
+                android:onClick="italiano"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/Italiano" />
+
+            <Button
+                android:background="@drawable/button_matematica"
+                android:textAllCaps="false"
+                android:layout_marginBottom="15dp"
+                android:text="Matematica"
+                android:layout_width="match_parent"
+                android:onClick="matematica"
+                android:layout_height="wrap_content"
+                android:id="@+id/Matematica" />
+
+            <Button
+                android:text="Inglese"
+                android:layout_marginBottom="15dp"
+                android:background="@drawable/button_inglese"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="inglese"
+                android:textAllCaps="false"
+                android:id="@+id/Inglese" />
+
+            <Button
+                android:text="Storia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/button_storia"
+                android:onClick="storia"
+                android:id="@+id/Storia" />
+
+            <Button
+                android:text="Geografia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/button"
+                android:onClick="geografia"
+                android:id="@+id/Geografia" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60dp"
+                android:id="@+id/top10"
+                android:onClick="top10"
+                android:text="Top10"
+                android:src="@drawable/coppa_ida"/>
+
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="account"
+                android:src="@drawable/account2"
+                android:text="Account"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
